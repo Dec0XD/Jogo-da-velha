@@ -1,2 +1,2 @@
 # Jogo-da-velha
-projeto final da materia de praticas em programação
+Projeto final da materia de praticas em programação
